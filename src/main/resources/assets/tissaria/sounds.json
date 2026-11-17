@@ -1,0 +1,12 @@
+{
+  "tunnel_sound": {
+    "sounds": [
+      { "name": "tissaria:tunnel_sound" }
+    ]
+  },
+  "tissaria": {
+    "sounds": [
+      { "name": "tissaria:tissaria", "stream": true }
+    ]
+  }
+}

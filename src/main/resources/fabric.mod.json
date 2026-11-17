@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "tissaria",
+  "version": "${version}",
+  "name": "Tissaria",
+  "description": "Adds looping sound blocks, including the TISSARIA block.",
+  "authors": ["LUAnnouncementsTissaria"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["net.tissaria.TissariaMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

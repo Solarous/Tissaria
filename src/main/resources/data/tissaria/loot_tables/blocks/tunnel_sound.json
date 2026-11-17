@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        { "type": "minecraft:item", "name": "tissaria:tunnel_sound" }
+      ]
+    }
+  ],
+  "random_sequence": "tissaria:blocks/tunnel_sound"
+}
